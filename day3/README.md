@@ -5,8 +5,8 @@ They are automatically called in certain situations.
 
 ---
 
-## 1. `__construct()`
-
+## `PHP Magic Methods Cheat Sheet`
+1. __construct()
 Called when an object is created.
 
 ```php
@@ -197,3 +197,4 @@ Copy code
 
 Do you want me to also **make a compact table at the end** (method → when it triggers → one-line example) for **su
 ```
+
